@@ -1,0 +1,12 @@
+type: hyperskill
+title: Cinema Room Manager
+language: English
+summary: This project is a good opportunity to work with input and output in Java.
+  You will deal with multi-dimensional arrays and functions as well as loops and conditional
+  statements.<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/133</a>
+programming_language: Java
+programming_language_version: 11
+content:
+- Cinema Room Manager
+- Problems
+mode: Study
